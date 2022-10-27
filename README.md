@@ -32,14 +32,14 @@ JS Ios Calculator(folder)
 
 ## Screenshot
 <p align="center">
-<a href="https://ugurcansarici.github.io/JS_Ios_Calculator/"><img src="calculator.gif" alt="screenshot"></a>
+<a href="https://muratergon.github.io/JS-HTML-CSS-ios-calculator/"><img src="JS-HTML-CSS-ios-calculator.gif" alt="screenshot"></a>
 </p>
 
 
 
 ## Links
 <hr>
-<b>Check The Live Website ➡️</b> <a href="https://ugurcansarici.github.io/JS_Ios_Calculator/">Live Website</a>
+<b>Check The Live Website ➡️</b> <a href="https://muratergon.github.io/JS-HTML-CSS-ios-calculator/">Live Website</a>
 <hr>
 
 ### Built with
